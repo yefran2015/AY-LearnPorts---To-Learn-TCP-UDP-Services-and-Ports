@@ -1,2 +1,3 @@
-# AYComp, LearnPorts - To Learn TCP UDP Services and Ports: Privacy Policy.
+# LearnPorts - To Learn TCP UDP Services and Ports by AYComp. 
+# Privacy Policy.
 This 
